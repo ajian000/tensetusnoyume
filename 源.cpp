@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int a, b, c, n, d, e, f, g;/这是打印一个菱形的垃圾代码/
+    int a, b, c, n, d, e, f, g;/*这是打印一个菱形的垃圾代码*/
     scanf("%d", &n);
     d = b = (n + 1) / 2;
     g = n;
